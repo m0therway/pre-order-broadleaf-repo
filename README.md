@@ -13,3 +13,4 @@ remote: warning: GH001: Large files detected.
 remote: warning: See http://git.io/iEPt8g for more information.
 remote: warning: File admin/target/admin.war is 80.71 MB; this is larger than GitHub's recommended maximum file size of 50 MB
 remote: warning: File site/target/mycompany.war is 81.72 MB; this is larger than GitHub's recommended maximum file size of 50 MB
+this is a warning only -- the files have been committed.
